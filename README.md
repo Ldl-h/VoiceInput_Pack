@@ -1,3 +1,4 @@
+![蓝蛙请求打钱期待](https://github.com/user-attachments/assets/0d15017b-e024-4ffa-b751-50046a88dfb4)
 # VCP 语音输入功能增强包 (Voice Input Feature Pack)
  
 本功能包实现了 VCP 前端的“高灵敏语音输入”功能，支持 1 秒停顿自动落锁、绝对光标跟随以及常驻识别引擎。
